@@ -1,0 +1,17 @@
+export enum Keys {
+  ArrowLeft = "ArrowLeft",
+  ArrowUp = "ArrowUp",
+  ArrowRight = "ArrowRight",
+  ArrowDown = "ArrowDown",
+  Enter = "Enter",
+  Space = "Space",
+  Backspace = "Backspace",
+  Tab = "Tab",
+  Escape = "Escape",
+  Delete = "Delete",
+  Home = "Home",
+  End = "End",
+  PageUp = "PageUp",
+  PageDown = "PageDown",
+  Q = "Q",
+}
