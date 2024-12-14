@@ -161,17 +161,4 @@ const FocusWrapper = ({
   );
 };
 
-FocusWrapper.prototype = {
-  children: PropTypes.node.isRequired,
-  tabIndex: PropTypes.oneOf([0, -1]),
-  onClick: PropTypes.func,
-  onLeft: PropTypes.func,
-  onRight: PropTypes.func,
-  onUp: PropTypes.func,
-  onDown: PropTypes.func,
-  onEnter: PropTypes.func,
-  onSpace: PropTypes.func,
-  onBack: PropTypes.func,
-};
-
 export default memo(FocusWrapper);
