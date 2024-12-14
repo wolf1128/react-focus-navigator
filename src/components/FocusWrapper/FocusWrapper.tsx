@@ -1,5 +1,4 @@
 import React, { memo, useCallback, useEffect, useRef, useState } from "react";
-import PropTypes from "prop-types";
 import useUniqueTabIndex from "../../hooks/useUniqueTabIndex";
 import { Keys } from "./keys";
 

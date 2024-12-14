@@ -9,6 +9,10 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wolf1128/react-focus-navigator.git"
+  },
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
