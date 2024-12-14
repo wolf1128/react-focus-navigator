@@ -2,7 +2,7 @@
   "name": "react-focus-navigator",
   "author": "Salar Farahmand",
   "private": false,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "files": [
     "dist",
